@@ -26,7 +26,8 @@ let citations = [
     ["Arrete d'arreter quand ça devient dur", "Tom Bilyeu"],
     ["Meme si vous en avez assez, vous devez garder la tête haute", "Tupac"],
     ["L'amour viendra à vous quand il est sera prèt, pas necessairement quand vous l'etes.", "Danielle Shorr"],
-    ["La vérite, c'est que tout le monde vous fera du mal. Vous devez seulement trouver les personnes pour lesquelles il vaut la peine de souffrir.", "Bob Marley"]
+    ["La vérite, c'est que tout le monde vous fera du mal. Vous devez seulement trouver les personnes pour lesquelles il vaut la peine de souffrir.", "Bob Marley"],
+    ["Je ne compte pas le nombre d'abdos que je fais ; je ne commence à compter que lorsque je commence à avoir mal parce que seuls ceux-là comptent.", "Mohamed Ali"]
 
 ];
 
