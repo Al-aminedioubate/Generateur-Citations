@@ -23,8 +23,10 @@ let citations = [
     ["Un pessimiste voit la difficulté dans chaque opportunité. Un optimiste voit une opportunité dans chaque difficulté.", "Winston Churchill"],
     ["Le temps guérit ce que la raison ne peut pas", "Séneque"],
     ["S'il ya une chose que vous n'aimez pas, changez-la. Si vous ne pouvez pas la changer, modifiez votre attitude.", "Maya Angelou"],
-    ["Arreter d'arreter quand ça devient dur", "Tom Bilyeu"],
-    ["Meme si vous en avez assez, vous devez garder la tête haute", "Tupac"]
+    ["Arrete d'arreter quand ça devient dur", "Tom Bilyeu"],
+    ["Meme si vous en avez assez, vous devez garder la tête haute", "Tupac"],
+    ["L'amour viendra à vous quand il est sera prèt, pas necessairement quand vous l'etes.", "Danielle Shorr"],
+    ["La vérite, c'est que tout le monde vous fera du mal. Vous devez seulement trouver les personnes pour lesquelles il vaut la peine de souffrir.", "Bob Marley"]
 
 ];
 
